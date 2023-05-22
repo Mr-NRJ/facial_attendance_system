@@ -1,7 +1,7 @@
 # facial_attendance_system
 Open the following files:
-  main.py
-  encodeGenerator.py
+  main.py ||
+  encodeGenerator.py ||
   adddata-database.py
 
 Run encodeGenerator.py first
