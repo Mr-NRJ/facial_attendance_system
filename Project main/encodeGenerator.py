@@ -8,8 +8,8 @@ from firebase_admin import storage
 
 cred = credentials.Certificate("serviceacckey.json")
 firebase_admin.initialize_app(cred,{
-    'databaseURL':"https://faceattendance-realtime-6e661-default-rtdb.firebaseio.com/",
-    'storageBucket':"faceattendance-realtime-6e661.appspot.com"
+    'databaseURL':"Realtime url",
+    'storageBucket':"storage url"
 })
 
 #importing student images !
